@@ -1,18 +1,7 @@
 body {
-    background: rgba(0, 0, 0, 0.1)
+    font-family: Arial, sans-serif;
 }
 
-
-.content { 
-    font-family: helvetica, sans-serif;
-    padding: 10px;
-
-}
-
-.content h1 {
-    text-align: center;
-}
-
-.img { 
-    object-fit: cover;
+.container { 
+    padding: 40px;
 }
